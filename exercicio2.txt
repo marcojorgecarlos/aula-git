@@ -10,3 +10,5 @@ if(texto)
 {
  printf("oi");
 }
+
+Merge conflict
