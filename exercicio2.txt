@@ -12,6 +12,3 @@ if(texto)
 }
 
 Merge conflict
-aaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaa
-bbbbbbbbbbb
