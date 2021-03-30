@@ -1,1 +1,2 @@
+conteudo novo
 código da nova funcionalidade da branch b1
